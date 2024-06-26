@@ -1,0 +1,26 @@
+# Logs
+react-ts-basics/logs
+react-ts-basics/*.log
+react-ts-basics/npm-debug.log*
+react-ts-basics/yarn-debug.log*
+react-ts-basics/yarn-error.log*
+react-ts-basics/pnpm-debug.log*
+react-ts-basics/lerna-debug.log*
+
+react-ts-basics/node_modules
+react-ts-basics/dist
+react-ts-basics/dist-ssr
+react-ts-basics/*.local
+
+# Editor directories and files
+react-ts-basics/.vscode/*
+react-ts-basics/!.vscode/extensions.json
+react-ts-basics/.idea
+react-ts-basics/.DS_Store
+react-ts-basics/*.suo
+react-ts-basics/*.ntvs*
+react-ts-basics/*.njsproj
+react-ts-basics/*.sln
+react-ts-basics/*.sw?
+
+node_modules
